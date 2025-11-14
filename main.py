@@ -6,7 +6,7 @@ import io
 import json
 from pypdf import PdfReader, PdfWriter 
 
-API_URL = "https://afb01a368719.ngrok-free.app/api/process/OcrBytes" 
+API_URL = "https://168e7c2e5275.ngrok-free.app/api/process/OcrBytes" 
 
 st.set_page_config(
     page_title="PDF Classification",
